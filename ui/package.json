@@ -4,7 +4,7 @@
   "description": "",
   "main": "webpack.config.js",
   "dependencies": {
-    "semantic-ui": "2.2.13"
+    "semantic-ui": "2.4.2"
   },
   "author": "ehazlett",
   "license": ""
